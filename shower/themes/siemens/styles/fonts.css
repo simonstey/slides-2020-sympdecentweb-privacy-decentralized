@@ -1,5 +1,7 @@
   @font-face {
     font-family: 'Cascadia Code';
+ font-display: auto;
+src: local('Cascadia Code');
     src: url('../fonts/CascadiaCode.eot');
     src: url('../fonts/CascadiaCode.eot?#iefix') format('embedded-opentype'),
         url('../fonts/CascadiaCode.woff2') format('woff2'),
